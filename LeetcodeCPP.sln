@@ -47,6 +47,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Search a 2D Matrix", "Searc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Koko Eating Bananas", "Koko Eating Bananas\Koko Eating Bananas.vcxproj", "{3378F2BD-E0E8-4E7E-9F70-30DB24155A23}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Find Minimum in Rotated Sorted Array", "Find Minimum in Rotated Sorted Array\Find Minimum in Rotated Sorted Array.vcxproj", "{87073733-C1D4-4A08-9E75-C513655DE3AC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Search in Rotated Sorted Array", "Search in Rotated Sorted Array\Search in Rotated Sorted Array.vcxproj", "{23FB4B86-803E-4158-B36F-BD0D658F909C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Time Based Key-Value Store", "Time Based Key-Value Store\Time Based Key-Value Store.vcxproj", "{D7D02781-5D10-4B20-AF57-09EEB0704341}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +237,30 @@ Global
 		{3378F2BD-E0E8-4E7E-9F70-30DB24155A23}.Release|x64.Build.0 = Release|x64
 		{3378F2BD-E0E8-4E7E-9F70-30DB24155A23}.Release|x86.ActiveCfg = Release|Win32
 		{3378F2BD-E0E8-4E7E-9F70-30DB24155A23}.Release|x86.Build.0 = Release|Win32
+		{87073733-C1D4-4A08-9E75-C513655DE3AC}.Debug|x64.ActiveCfg = Debug|x64
+		{87073733-C1D4-4A08-9E75-C513655DE3AC}.Debug|x64.Build.0 = Debug|x64
+		{87073733-C1D4-4A08-9E75-C513655DE3AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{87073733-C1D4-4A08-9E75-C513655DE3AC}.Debug|x86.Build.0 = Debug|Win32
+		{87073733-C1D4-4A08-9E75-C513655DE3AC}.Release|x64.ActiveCfg = Release|x64
+		{87073733-C1D4-4A08-9E75-C513655DE3AC}.Release|x64.Build.0 = Release|x64
+		{87073733-C1D4-4A08-9E75-C513655DE3AC}.Release|x86.ActiveCfg = Release|Win32
+		{87073733-C1D4-4A08-9E75-C513655DE3AC}.Release|x86.Build.0 = Release|Win32
+		{23FB4B86-803E-4158-B36F-BD0D658F909C}.Debug|x64.ActiveCfg = Debug|x64
+		{23FB4B86-803E-4158-B36F-BD0D658F909C}.Debug|x64.Build.0 = Debug|x64
+		{23FB4B86-803E-4158-B36F-BD0D658F909C}.Debug|x86.ActiveCfg = Debug|Win32
+		{23FB4B86-803E-4158-B36F-BD0D658F909C}.Debug|x86.Build.0 = Debug|Win32
+		{23FB4B86-803E-4158-B36F-BD0D658F909C}.Release|x64.ActiveCfg = Release|x64
+		{23FB4B86-803E-4158-B36F-BD0D658F909C}.Release|x64.Build.0 = Release|x64
+		{23FB4B86-803E-4158-B36F-BD0D658F909C}.Release|x86.ActiveCfg = Release|Win32
+		{23FB4B86-803E-4158-B36F-BD0D658F909C}.Release|x86.Build.0 = Release|Win32
+		{D7D02781-5D10-4B20-AF57-09EEB0704341}.Debug|x64.ActiveCfg = Debug|x64
+		{D7D02781-5D10-4B20-AF57-09EEB0704341}.Debug|x64.Build.0 = Debug|x64
+		{D7D02781-5D10-4B20-AF57-09EEB0704341}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7D02781-5D10-4B20-AF57-09EEB0704341}.Debug|x86.Build.0 = Debug|Win32
+		{D7D02781-5D10-4B20-AF57-09EEB0704341}.Release|x64.ActiveCfg = Release|x64
+		{D7D02781-5D10-4B20-AF57-09EEB0704341}.Release|x64.Build.0 = Release|x64
+		{D7D02781-5D10-4B20-AF57-09EEB0704341}.Release|x86.ActiveCfg = Release|Win32
+		{D7D02781-5D10-4B20-AF57-09EEB0704341}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
